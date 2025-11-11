@@ -1,4 +1,4 @@
-# C template
+# BallsAndTheirAdmirers
 
 For VSCode-based editors and Clang. Requires CodeLLDB extension. clangd extension is recommended.
 
